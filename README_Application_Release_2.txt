@@ -1,4 +1,4 @@
-Github link to README: 
+Github link to README: https://github.com/nvigliotte/Release-2/blob/5b278a1536f815699663072a71e928b61497c37e/README_Application_Release_2.txt
 
 ITT-310_Application_Releases
 CHORE-TELLER 2.0
